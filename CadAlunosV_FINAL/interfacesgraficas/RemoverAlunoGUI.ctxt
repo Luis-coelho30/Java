@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=RemoverAlunoGUI
+comment0.text=\r\n\ Implementa\ uma\ interface\ grafica\ para\ a\ remo\u00E7\u00E3o\ de\ um\ aluno\r\n\ @author\ Luis\ Augusto\ Coelho\ de\ Souza\ RA00331675\r\n\ @author\ Jo\u00E3o\ Guilherme\ Costa\ Couto\ RA00332850\r\n\ @author\ Matheus\ Heimrath\ Barbosa\ RA00333095\r\n\ @version\ 21/05/2024\r\n
+comment1.params=owner\ titulo\ listaRA
+comment1.target=RemoverAlunoGUI(javax.swing.JFrame,\ java.lang.String,\ java.util.ArrayList)
+comment1.text=\r\n\ RemoverAlunoGUI\ Construtor\r\n\r\n\ @param\ owner\ O\ JFrame\ pai\ para\ o\ JDialog\r\n\ @param\ titulo\ O\ titulo\ do\ JDialog\r\n\ @param\ listaRA\ Uma\ lista\ dos\ RAs\ cadastrados\r\n
+comment2.params=E
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=E
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=e
+comment4.target=void\ insertUpdate(javax.swing.event.DocumentEvent)
+comment5.params=e
+comment5.target=void\ removeUpdate(javax.swing.event.DocumentEvent)
+comment6.params=e
+comment6.target=void\ changedUpdate(javax.swing.event.DocumentEvent)
+comment7.params=
+comment7.target=void\ permitirRemocao()
+comment8.params=ra
+comment8.target=boolean\ raJaExiste(java.lang.String)
+comment8.text=\r\n\ M\u00E9todo\ raJaExiste\r\n\r\n\ @param\ ra\ Um\ RA\ para\ buscar\ na\ lista\r\n\ @return\ Se\ o\ RA\ esta\ ou\ nao\ na\ lista\r\n
+comment9.params=
+comment9.target=java.lang.String\ getRA()
+comment9.text=\r\n\ M\u00E9todo\ getRA\r\n\r\n\ @return\ O\ RA\ a\ ser\ removido\r\n
+numComments=10

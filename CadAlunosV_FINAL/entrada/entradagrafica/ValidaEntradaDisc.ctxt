@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=ValidaEntradaDisc
+comment0.text=\r\n\ Valida\ as\ entradas\ de\ Disciplinas\ na\ Entrada\ grafica\ de\ Disciplinas\r\n\ @author\ Luis\ Augusto\ Coelho\ de\ Souza\ RA00331675\r\n\ @author\ Jo\u00E3o\ Guilherme\ Costa\ Couto\ RA00332850\r\n\ @author\ Matheus\ Heimrath\ Barbosa\ RA00333095\r\n\ @version\ 21/05/2024\r\n
+comment1.params=campos
+comment1.target=ValidaEntradaDisc(java.util.ArrayList)
+comment1.text=\r\n\ ValidaEntradaDisc\ Construtor\r\n\r\n\ @param\ campos\ recebe\ os\ campos\ de\ texto\ da\ interface\ grafica\r\n
+comment2.params=campo\ botao
+comment2.target=void\ permitirEntrada(javax.swing.JFormattedTextField,\ javax.swing.JButton)
+comment2.text=\r\n\ M\u00E9todo\ permitirEntrada\r\n\r\n\ @param\ campo\ Recebe\ um\ campo\ de\ texto\r\n\ @param\ botao\ Recebe\ um\ bot\u00E3o\ para\ alterar\ seu\ estado\r\n
+comment3.params=e
+comment3.target=void\ insertUpdate(javax.swing.event.DocumentEvent)
+comment4.params=e
+comment4.target=void\ removeUpdate(javax.swing.event.DocumentEvent)
+comment5.params=e
+comment5.target=void\ changedUpdate(javax.swing.event.DocumentEvent)
+comment6.params=
+comment6.target=void\ atualizarEstadoDoBotao()
+numComments=7

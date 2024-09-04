@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Disciplina
+comment0.text=\r\n\ Classe\ que\ armazena\ o\ nome\ de\ uma\ disciplina,\ seu\ codigo\ e\ a\ media\ do\ aluno\ nela.\r\n\ \r\n\ \r\n\ @author\ Luis\ Augusto\ Coelho\ de\ Souza\ RA00331675\r\n\ @author\ Jo\u00E3o\ Guilherme\ Costa\ Couto\ RA00332850\r\n\ @author\ Matheus\ Heimrath\ Barbosa\ RA00333095\r\n\ @version\ 21/05/2024\r\n
+comment1.params=codDisc\ nomeDisc\ media
+comment1.target=Disciplina(java.lang.String,\ java.lang.String,\ float)
+comment1.text=\r\n\ Disciplina\ Construtor\r\n\r\n\ @param\ codDisc\ Recebe\ o\ codigo\ da\ disciplina\r\n\ @param\ nomeDisc\ Recebe\ o\ nome\ da\ disciplina\r\n\ @param\ media\ Recebe\ a\ media\ do\ aluno\ na\ disciplina\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ M\u00E9todo\ toString\r\n\r\n\ @return\ A\ string\ com\ os\ dados\ do\ aluno\ em\ uma\ disciplina\r\n
+comment3.params=
+comment3.target=java.lang.String\ getcodDisc()
+comment4.params=
+comment4.target=Texto\ getnomeDisc()
+comment5.params=
+comment5.target=float\ getMedia()
+numComments=6

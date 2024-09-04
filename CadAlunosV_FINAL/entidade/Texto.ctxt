@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Texto
+comment0.text=\r\n\ Armazena\ um\ texto\ e\ permite\ inverter\ ou\ limpar\ os\ espacos\ excedentes\ e\ recolher\ o\ tamanho\ do\ texto\r\n\ \r\n\ @author\ Luis\ Augusto\ Coelho\ de\ Souza\ RA00331675\r\n\ @author\ Jo\u00E3o\ Guilherme\ Costa\ Couto\ RA00332850\r\n\ @author\ Matheus\ Heimrath\ Barbosa\ RA00333095\r\n\ @version\ 21/05/2024\r\n
+comment1.params=txt
+comment1.target=Texto(java.lang.String)
+comment1.text=\ \r\n\ Construtor\:\ armazena\ o\ texto\ e\ limpa\ os\ espa\u00E7os\ excedentes\r\n\ \r\n\ @param\ txt\ String\ com\ o\ texto\ que\ ser\u00E1\ armazenado\r\n
+comment2.params=t
+comment2.target=void\ setTxt(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getTxt()
+comment4.params=
+comment4.target=java.lang.String\ inverterTexto()
+comment4.text=\r\n\ Retorna\ um\ texto\ invertido\r\n\ @return\ txtInvertido\ String\ contendo\ o\ texto\ invertido\r\n
+comment5.params=
+comment5.target=int\ getQtdePalavras()
+comment5.text=\r\n\ Retorna\ quantidade\ de\ palavras\ do\ nome\r\n\ @return\ qtd\ numero\ de\ palavras\r\n
+comment6.params=
+comment6.target=void\ limpaEspacosExcedentes()
+comment6.text=\r\n\ Retira\ espacos\ excedentes\ de\ uma\ string\r\n\ @return\ s\ string\ sem\ espacos\ excedentes\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\r\n\ Retorna\ os\ atributos\ como\ string\r\n
+numComments=8

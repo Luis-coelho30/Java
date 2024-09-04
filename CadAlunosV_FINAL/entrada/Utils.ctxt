@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Utils
+comment0.text=\r\n\ Classe\ responsavel\ por\ identificar\ erros\ nas\ entradas\ do\ programa\r\n\ \r\n\ @author\ Luis\ Augusto\ Coelho\ de\ Souza\ RA00331675\r\n\ @author\ Jo\u00E3o\ Guilherme\ Costa\ Couto\ RA00332850\r\n\ @author\ Matheus\ Heimrath\ Barbosa\ RA00333095\r\n\ @version\ 21/05/2024\r\n
+comment1.params=str
+comment1.target=boolean\ isNumericFloat(java.lang.String)
+comment1.text=\r\n\ M\u00E9todo\ isNumericFloat\r\n\r\n\ @param\ str\ Um\ par\u00E2metro\r\n\ @return\ O\ valor\ de\ retorno\r\n
+comment2.params=str
+comment2.target=boolean\ isNumericInt(java.lang.String)
+comment2.text=\r\n\ M\u00E9todo\ isNumericInt\r\n\r\n\ @param\ str\ Um\ par\u00E2metro\r\n\ @return\ O\ valor\ de\ retorno\r\n
+comment3.params=str
+comment3.target=boolean\ isRA(java.lang.String)
+comment3.text=\r\n\ M\u00E9todo\ isRA\r\n\r\n\ @param\ str\ Um\ par\u00E2metro\r\n\ @return\ O\ valor\ de\ retorno\r\n
+comment4.params=idade
+comment4.target=boolean\ isIdade(int)
+comment4.text=\r\n\ M\u00E9todo\ isIdade\r\n\r\n\ @param\ idade\ Um\ par\u00E2metro\r\n\ @return\ O\ valor\ de\ retorno\r\n
+comment5.params=semestre
+comment5.target=boolean\ isSemestre(int)
+comment5.text=\r\n\ M\u00E9todo\ isSemestre\r\n\r\n\ @param\ semestre\ Um\ par\u00E2metro\r\n\ @return\ O\ valor\ de\ retorno\r\n
+comment6.params=str
+comment6.target=boolean\ isRG(java.lang.String)
+comment6.text=\r\n\ M\u00E9todo\ isRG\r\n\r\n\ @param\ str\ Um\ par\u00E2metro\r\n\ @return\ O\ valor\ de\ retorno\r\n
+comment7.params=media
+comment7.target=boolean\ isMedia(float)
+comment7.text=\r\n\ M\u00E9todo\ isMedia\r\n\r\n\ @param\ media\ Um\ par\u00E2metro\r\n\ @return\ O\ valor\ de\ retorno\r\n
+numComments=8

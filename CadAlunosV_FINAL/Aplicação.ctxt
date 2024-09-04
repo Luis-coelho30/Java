@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Aplica\u00E7\u00E3o
+comment0.text=\r\n\ Classe\ Aplicacao\ permite\ que\ o\ usuario\ fa\u00E7a\ opera\u00E7\u00F5es\ na\ Lista\ de\ cadastro\r\n\ \r\n\ @author\ Luis\ Augusto\ Coelho\ de\ Souza\ RA00331675\r\n\ @author\ Jo\u00E3o\ Guilherme\ Costa\ Couto\ RA00332850\r\n\ @author\ Matheus\ Heimrath\ Barbosa\ RA00333095\r\n\ @version\ 21/05/2024\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=e
+comment2.target=void\ windowClosed(java.awt.event.WindowEvent)
+numComments=3

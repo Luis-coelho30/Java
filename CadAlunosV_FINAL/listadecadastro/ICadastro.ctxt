@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ICadastro
+comment0.text=\r\n\ Interface\ para\ a\ implementa\u00E7\u00E3o\ da\ lista\ de\ cadastro\ dos\ alunos\r\n\ \r\n\ @author\ Luis\ Augusto\ Coelho\ de\ Souza\ RA00331675\r\n\ @author\ Jo\u00E3o\ Guilherme\ Costa\ Couto\ RA00332850\r\n\ @author\ Matheus\ Heimrath\ Barbosa\ RA00333095\r\n\ @version\ 21/05/2024\r\n
+comment1.params=ra
+comment1.target=int\ buscarLista(java.lang.String)
+comment2.params=novoAluno
+comment2.target=void\ adicionar(entidade.Aluno)
+comment3.params=ra
+comment3.target=void\ remover(java.lang.String)
+comment4.params=
+comment4.target=boolean\ estaVazia()
+comment5.params=op
+comment5.target=void\ operarCadastro(int)
+numComments=6

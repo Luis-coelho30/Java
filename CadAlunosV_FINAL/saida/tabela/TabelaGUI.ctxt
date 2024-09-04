@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TabelaGUI
+comment0.text=\r\n\ Classe\ respons\u00E1vel\ por\ implementar\ uma\ Tabela\ Gr\u00E1fica\ que\ pode\ ou\ n\u00E3o\ ter\ bot\u00F5es.\r\n\ @author\ Luis\ Augusto\ Coelho\ de\ Souza\ RA00331675\r\n\ @author\ Jo\u00E3o\ Guilherme\ Costa\ Couto\ RA00332850\r\n\ @author\ Matheus\ Heimrath\ Barbosa\ RA00333095\r\n\ @version\ 21/05/2024\r\n
+comment1.params=dados\ colunas\ matrizList\ comBotao
+comment1.target=TabelaGUI(java.lang.Object[][],\ java.lang.String[],\ java.util.ArrayList,\ boolean)
+comment1.text=\r\n\ TabelaGUI\ Construtor\r\n\r\n\ @param\ dados\ Recebe\ uma\ matriz\ de\ dados\ que\ cont\u00E9m\ os\ dados\ que\ a\ tabela\ dever\u00E1\ mostrar\r\n\ @param\ colunas\ Recebe\ os\ nomes\ das\ colunas\ que\ a\ tabela\ ter\u00E1\r\n\ @param\ matrizList\ Opcionalmente\ recebe\ uma\ lista\ de\ matrizes\ de\ dados\ que\ pode\ ser\ apresentada\ no\ clique\ de\ um\ bot\u00E3o\ na\ \u00FAltima\ coluna\ \r\n\ @param\ comBotao\ Boolean\ que\ indica\ se\ a\ tabela\ dever\u00E1\ ser\ implementada\ com\ bot\u00F5es\ ou\ n\u00E3o\r\n
+comment2.params=tabela
+comment2.target=void\ adicionarBotoes(javax.swing.JTable)
+comment2.text=\r\n\ M\u00E9todo\ adicionarBotoes\r\n\r\n\ @param\ tabela\ Recebe\ a\ tabela\ em\ que\ a\ fun\u00E7\u00E3o\ deve\ adicionar\ os\ bot\u00F5es\r\n
+numComments=3

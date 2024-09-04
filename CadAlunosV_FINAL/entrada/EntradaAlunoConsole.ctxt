@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=EntradaAlunoConsole
+comment0.text=\r\n\ Classe\ EntradaAlunoConsole\ recebe\ os\ dados\ de\ um\ Aluno\ por\ meio\ do\ console\ e\ os\ retorna\ como\ um\ objeto\ Aluno\r\n\ \r\n\ @author\ Luis\ Augusto\ Coelho\ de\ Souza\ RA00331675\r\n\ @author\ Jo\u00E3o\ Guilherme\ Costa\ Couto\ RA00332850\r\n\ @author\ Matheus\ Heimrath\ Barbosa\ RA00333095\r\n\ @version\ 21/05/2024\r\n
+comment1.params=
+comment1.target=entidade.Aluno\ registrar()
+comment1.text=\r\n\ M\u00E9todo\ registrar\r\n\ Recebe\ os\ dados\ de\ um\ aluno\ por\ meio\ do\ Console\r\n\ @return\ Retorna\ um\ objeto\ da\ classe\ Aluno\r\n
+numComments=2

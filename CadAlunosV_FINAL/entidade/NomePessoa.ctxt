@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=NomePessoa
+comment0.text=\r\n\ Classe\ que\ permite\ manipular\ um\ nome\ usando\ os\ metodos\ da\ classe\ Texto.\r\n\ Permite\ recolher\ o\ nome,\ nome\ invertido,\ qtd\ de\ palavras\ no\ nome,\ nome\ bibliografico\r\n\ \r\n\ @author\ Luis\ Augusto\ Coelho\ de\ Souza\ RA00331675\r\n\ @author\ Jo\u00E3o\ Guilherme\ Costa\ Couto\ RA00332850\r\n\ @author\ Matheus\ Heimrath\ Barbosa\ RA00333095\r\n\ @version\ 21/05/2024\r\n
+comment1.params=nome
+comment1.target=NomePessoa(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment2.text=\r\n\ @return\ o\ nome\ recebido\r\n
+comment3.params=nome
+comment3.target=void\ setNome(java.lang.String)
+comment3.text=\r\n\ variavel\ local\ nome\ recebe\ o\ nome\ como\ objeto\ da\ classe\ texto\r\n
+comment4.params=
+comment4.target=int\ getQtdePalavras()
+comment4.text=\r\n\ Retorna\ quantidade\ de\ palavras\ do\ nome\r\n\ \r\n
+comment5.params=
+comment5.target=java.lang.String\ getNomeInvertido()
+comment5.text=\r\n\ Retorna\ nome\ invertido\r\n\ \r\n
+comment6.params=
+comment6.target=java.lang.String\ getNomeBiblio()
+comment6.text=\r\n\ Retorna\ nome\ bibliografico\r\n\ \r\n
+comment7.params=s
+comment7.target=boolean\ verificaStr(java.lang.String)
+comment7.text=\r\n\ Verifica\ se\ string\ eh\ uma\ String\ a\ ser\ retirada\r\n\ @param\ s\ string\ a\ ser\ verificada\r\n\ @return\ true\ eh\ preposicao\ false\ nao\ eh\ preposicao\r\n
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment8.text=\r\n\ Retorna\ os\ atributos\ como\ string\r\n
+numComments=9

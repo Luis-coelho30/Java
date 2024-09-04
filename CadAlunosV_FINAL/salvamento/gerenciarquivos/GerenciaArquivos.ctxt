@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=GerenciaArquivos
+comment0.text=\r\n\ Classe\ responsavel\ por\ armazenar\ metodos\ que\ gerenciam\ os\ arquivos\ no\ programa\r\n\ @author\ Luis\ Augusto\ Coelho\ de\ Souza\ RA00331675\r\n\ @author\ Jo\u00E3o\ Guilherme\ Costa\ Couto\ RA00332850\r\n\ @author\ Matheus\ Heimrath\ Barbosa\ RA00333095\r\n\ @version\ 21/05/2024\r\n
+comment1.params=
+comment1.target=java.lang.String\ salvarArquivo()
+comment1.text=\r\n\ M\u00E9todo\ salvarArquivo\r\n\r\n\ @return\ O\ nome\ de\ um\ arquivo\ criado\ para\ salvamento\r\n
+comment2.params=
+comment2.target=java.lang.String\ recolherNomeArq()
+comment2.text=\r\n\ M\u00E9todo\ recolherNomeArq\r\n\r\n\ @return\ O\ nome\ de\ um\ arquivo\ de\ salvamento\ selecionado\r\n
+numComments=3

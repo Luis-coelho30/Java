@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ISalvamento
+comment0.text=\r\n\ Interface\ para\ a\ implementa\u00E7\u00E3o\ da\ Persistencia\ do\ cadastro\r\n\ @author\ Luis\ Augusto\ Coelho\ de\ Souza\ RA00331675\r\n\ @author\ Jo\u00E3o\ Guilherme\ Costa\ Couto\ RA00332850\r\n\ @author\ Matheus\ Heimrath\ Barbosa\ RA00333095\r\n\ @version\ 21/05/2024\r\n
+comment1.params=objeto\ nomeArq
+comment1.target=void\ gravarArq(java.lang.Object,\ java.lang.String)
+comment2.params=nomeArq
+comment2.target=java.lang.Object\ lerArq(java.lang.String)
+numComments=3

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MenuGrafico
+comment0.text=\r\n\ Cria\ uma\ instancia\ grafica\ de\ um\ Menu\ com\ RadioButtons\r\n\ @author\ Luis\ Augusto\ Coelho\ de\ Souza\ RA00331675\r\n\ @author\ Jo\u00E3o\ Guilherme\ Costa\ Couto\ RA00332850\r\n\ @author\ Matheus\ Heimrath\ Barbosa\ RA00333095\r\n\ @version\ 21/05/2024\r\n
+comment1.params=titulo\ op1\ op2\ op3\ op4\ op5\ op6
+comment1.target=MenuGrafico(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ MenuGrafico\ Construtor\r\n\r\n\ @param\ titulo\ O\ titulo\ do\ JFrame\r\n\ @param\ op1\ O\ texto\ da\ op\u00E7\u00E3o\ 1\r\n\ @param\ op2\ O\ texto\ da\ op\u00E7\u00E3o\ 2\r\n\ @param\ op3\ O\ texto\ da\ op\u00E7\u00E3o\ 3\r\n\ @param\ op4\ O\ texto\ da\ op\u00E7\u00E3o\ 4\r\n\ @param\ op5\ O\ texto\ da\ op\u00E7\u00E3o\ 5\r\n\ @param\ op6\ O\ texto\ da\ op\u00E7\u00E3o\ 6\r\n
+comment2.params=e
+comment2.target=void\ itemStateChanged(java.awt.event.ItemEvent)
+comment3.params=
+comment3.target=int\ getOpcao()
+comment3.text=\r\n\ M\u00E9todo\ getOpcao\r\n\r\n\ @return\ O\ valor\ da\ op\u00E7\u00E3o\ selecionada\r\n
+numComments=4

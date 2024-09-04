@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BotaoGUI
+comment0.text=\r\n\ Classe\ por\ implementar\ os\ bot\u00F5es\ graficamente\r\n\ @author\ Luis\ Augusto\ Coelho\ de\ Souza\ RA00331675\r\n\ @author\ Jo\u00E3o\ Guilherme\ Costa\ Couto\ RA00332850\r\n\ @author\ Matheus\ Heimrath\ Barbosa\ RA00333095\r\n\ @version\ 21/05/2024\r\n
+comment1.params=
+comment1.target=BotaoGUI()
+comment1.text=\r\n\ BotaoGUI\ Construtor\r\n\ \ \r\n\ Torna\ o\ bot\u00E3o\ em\ opaco\ para\ impedir\ a\ visua\r\n
+comment2.params=table\ value\ isSelected\ hasFocus\ row\ column
+comment2.target=java.awt.Component\ getTableCellRendererComponent(javax.swing.JTable,\ java.lang.Object,\ boolean,\ boolean,\ int,\ int)
+comment2.text=\r\n\ M\u00E9todo\ getTableCellRendererComponent\r\n\r\n\ Garante\ a\ renderiza\u00E7\u00E3o\ correta\ do\ bot\u00E3o\r\n
+numComments=3

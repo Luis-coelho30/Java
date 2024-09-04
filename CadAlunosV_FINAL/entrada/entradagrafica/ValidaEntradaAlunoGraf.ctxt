@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=ValidaEntradaAlunoGraf
+comment0.text=\r\n\ Valida\ as\ entradas\ recebidas\ na\ Entrada\ Grafica\ de\ um\ aluno.\r\n\ Se\ forem\ validas,\ ativa\ o\ bot\u00E3o\ que\ permite\ o\ cadastro,\ sen\u00E3o\ mant\u00E9m\ ele\ desativado\r\n\ \r\n\ @author\ Luis\ Augusto\ Coelho\ de\ Souza\ RA00331675\r\n\ @author\ Jo\u00E3o\ Guilherme\ Costa\ Couto\ RA00332850\r\n\ @author\ Matheus\ Heimrath\ Barbosa\ RA00333095\r\n\ @version\ 21/05/2024\r\n
+comment1.params=campos\ numEntradasNumericas\ entradasEspeciais\ listaRA
+comment1.target=ValidaEntradaAlunoGraf(java.util.ArrayList,\ int,\ int,\ java.util.ArrayList)
+comment1.text=\r\n\ ValidaEntradaAlunoGraf\ Construtor\r\n\r\n\ @param\ Recebe\ um\ ArrayList\ dos\ campos\ de\ JFormattedTextField\ presentes\ na\ interface\ grafica\ (necessario\ para\ garantir\ que\ todas\ as\ entradas\ sejam\ validas\ ao\ mesmo\ tempo)\r\n\ @param\ numEntradasNumericas\ recebe\ o\ numero\ de\ entradas\ numericas\r\n\ @param\ entradasEspeciais\ recebe\ o\ numero\ de\ entradas\ com\ condi\u00E7\u00F5es\ especiais\r\n\ @param\ listaRA\ recebe\ uma\ lista\ dos\ RAs\ presentes\ no\ cadastro\r\n
+comment2.params=campo\ botao
+comment2.target=void\ permitirEntrada(javax.swing.JFormattedTextField,\ javax.swing.JButton)
+comment2.text=\r\n\ M\u00E9todo\ permitirEntrada\r\n\r\n\ @param\ campo\ Recebe\ um\ campo\ para\ verificar\ o\ seu\ estado\ durante\ o\ preenchimento\r\n\ @param\ botao\ Recebe\ o\ botao\ a\ ser\ ativado/desativado\r\n
+comment3.params=e
+comment3.target=void\ insertUpdate(javax.swing.event.DocumentEvent)
+comment4.params=e
+comment4.target=void\ removeUpdate(javax.swing.event.DocumentEvent)
+comment5.params=e
+comment5.target=void\ changedUpdate(javax.swing.event.DocumentEvent)
+comment6.params=
+comment6.target=void\ atualizarEstadoDoBotao()
+comment7.params=ra
+comment7.target=boolean\ raJaExiste(java.lang.String)
+comment7.text=\r\n\ M\u00E9todo\ raJaExiste\r\n\r\n\ @param\ Recebe\ um\ RA\r\n\ @return\ True\ se\ o\ RA\ existe\ na\ listaRA\ do\ construtor\r\n
+numComments=8

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=BotaoAcao
+comment0.text=\r\n\ Classe\ responsavel\ por\ atribuir\ a\u00E7\u00E3o\ aos\ bot\u00F5es\ da\ Tabela\r\n\ @author\ Luis\ Augusto\ Coelho\ de\ Souza\ RA00331675\r\n\ @author\ Jo\u00E3o\ Guilherme\ Costa\ Couto\ RA00332850\r\n\ @author\ Matheus\ Heimrath\ Barbosa\ RA00333095\r\n\ @version\ 21/05/2024\r\n
+comment1.params=checkBox\ dados
+comment1.target=BotaoAcao(javax.swing.JCheckBox,\ java.util.ArrayList)
+comment1.text=\r\n\ BotaoAcao\ Construtor\r\n\r\n\ @param\ checkBox\ recebe\ um\ JCheckBox\ para\ adicionar\ a\u00E7\u00E3o\ a\ um\ botao\r\n\ @param\ dados\ recebe\ os\ dados\ que\ cada\ bot\u00E3o\ deve\ apresentar\r\n
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=table\ value\ isSelected\ row\ column
+comment3.target=java.awt.Component\ getTableCellEditorComponent(javax.swing.JTable,\ java.lang.Object,\ boolean,\ int,\ int)
+comment3.text=\r\n\ M\u00E9todo\ getTableCellEditorComponent\r\n\r\n\ Metodo\ da\ interface\ TableCellEditor\ que\ permite\ o\ retorno\ do\ componente\ que\ ser\u00E1\ usado\ na\ edi\u00E7\u00E3o\ da\ tabela\r\n
+comment4.params=
+comment4.target=java.lang.Object\ getCellEditorValue()
+comment4.text=\r\n\ M\u00E9todo\ getCellEditorValue\r\n\r\n\ @return\ Garante\ que\ o\ bot\u00E3o\ tenha\ o\ nome\ dado\ depois\ da\ renderiza\u00E7\u00E3o\ da\ tabela\r\n
+numComments=5

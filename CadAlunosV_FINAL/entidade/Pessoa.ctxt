@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Pessoa
+comment0.text=\r\n\ Classe\ que\ permite\ armazenar\ as\ caracteristicas\ de\ uma\ pessoa.\r\n\ Permite\ recolher\ o\ nome,\ nome\ invertido,\ qtd\ de\ palavras\ no\ nome,\ nome\ bibliografico\ (metodos\ da\ classe\ NomePessoa),\ idade\ e\ rg\r\n\ \r\n\ @author\ Luis\ Augusto\ Coelho\ de\ Souza\ RA00331675\r\n\ @author\ Jo\u00E3o\ Guilherme\ Costa\ Couto\ RA00332850\r\n\ @author\ Matheus\ Heimrath\ Barbosa\ RA00333095\r\n\ @version\ 21/05/2024\r\n
+comment1.params=nome\ idade\ rg
+comment1.target=Pessoa(java.lang.String,\ int,\ java.lang.String)
+numComments=2
