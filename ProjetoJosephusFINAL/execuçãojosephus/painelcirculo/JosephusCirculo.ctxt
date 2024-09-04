@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=JosephusCirculo
+comment0.text=\r\n\ \ A\ classe\ JosephusCirculo\ realiza\ a\ cria\u00E7\u00E3o\ do\ Painel\ que\ representa\ a\ lista\ circular\ \r\n\ \ @author\r\n\ \ RA\:\ 00333095\ NOME\ Matheus\ Heimrath\ Barbosa\ \r\n\ \ RA\:\ 00331675\ NOME\ Lu\u00EDs\ Augusto\ Coelho\ de\ Souza\r\n\ \ RA\:\ 00332850\ NOME\ Jo\u00E3o\ Guilherme\ Costa\ Couto\ \r\n\ \ @version\ 19/06/2024\r\n
+comment1.params=grupo
+comment1.target=JosephusCirculo(doublelinklistcirc.ListaDuplamenteLigadaCircular)
+comment1.text=\r\n\ JosephusCirculo\ Construtor\ prepara\ a\ classe\ para\ a\ constru\u00E7\u00E3o\ do\ circulo\ \r\n\r\n\ @param\ grupo\ Recebe\ a\ lista\ circular\ para\ a\ montagem\ do\ painel\r\n
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment2.text=\r\n\ M\u00E9todo\ paintComponent\:\ Implementado\ como\ parte\ dos\ componentes\ Swing\ (JComponent)\ para\ definir\ a\ pintura\ do\ painel.\ Ser\u00E1\ chamado\ toda\ vez\ que\ repaint()\ for\ usado.\r\n\r\n\ @param\ g\ Um\ objeto\ da\ classe\ Graphics,\ usada\ para\ desenhar\ formas,\ texto\ e\ imagens\r\n
+comment3.params=g
+comment3.target=void\ criarCirculo(java.awt.Graphics)
+comment3.text=\r\n\ M\u00E9todo\ criarCirculo\:\ Desenha\ um\ circulo\ no\ painel\ conforme\ os\ itens\ da\ lista\ ligada\r\n\r\n\ @param\ g\ Um\ objeto\ da\ classe\ Graphics,\ usada\ para\ desenhar\ formas,\ texto\ e\ imagens\r\n
+comment4.params=grupo
+comment4.target=void\ setGrupo(doublelinklistcirc.ListaDuplamenteLigadaCircular)
+comment4.text=\r\n\ M\u00E9todo\ setGrupo\:\ Atualiza\ a\ lista\ circular\ recebida\ (para\ receber\ as\ modifica\u00E7\u00F5es\ de\ estado\ dos\ elementos)\r\n\r\n\ @param\ grupo\ A\ lista\ circular\ usada\ na\ montagem\ do\ painel\r\n
+numComments=5

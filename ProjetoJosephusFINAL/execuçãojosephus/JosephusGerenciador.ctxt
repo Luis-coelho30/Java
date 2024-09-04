@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=JosephusGerenciador
+comment0.text=\r\n\ \ A\ classe\ JosephusGerenciador\ \u00E9\ usada\ para\ unir\ as\ classes\ Josephus\ e\ JosephusCirculo\ em\ uma\ classe\ gerenciadora\ para\ opera-las\ em\ conjunto\r\n\ \ \r\n\ \ @author\r\n\ \ RA\:\ 00333095\ NOME\ Matheus\ Heimrath\ Barbosa\ \r\n\ \ RA\:\ 00331675\ NOME\ Lu\u00EDs\ Augusto\ Coelho\ de\ Souza\r\n\ \ RA\:\ 00332850\ NOME\ Jo\u00E3o\ Guilherme\ Costa\ Couto\ \r\n\ \ @version\ 19/06/2024\r\n
+comment1.params=passo\ delay\ numPessoas\ circuloGraf\ mainFrame
+comment1.target=JosephusGerenciador(int,\ int,\ int,\ painelcirculo.JosephusCirculo,\ josephusGUI.JosephusMainFrame)
+comment1.text=\r\n\ JosephusGerenciador\ Construtor\r\n\r\n\ @param\ passo\ O\ passo\ de\ elimina\u00E7\u00E3o\r\n\ @param\ delay\ o\ delay\ entre\ elimina\u00E7\u00F5es\r\n\ @param\ numPessoas\ O\ numero\ de\ pessoas\ no\ circulo\r\n\ @param\ circuloGraf\ O\ Painel\ grafico\ que\ representa\ a\ lista\ circular\r\n\ @param\ mainFrame\ O\ mainFrame\ para\ realizar\ atualiza\u00E7\u00F5es\ no\ frame\ principal\r\n
+comment2.params=
+comment2.target=void\ executarProblema()
+comment2.text=\r\n\ M\u00E9todo\ executarProblema\:\ Executa\ o\ problema\ de\ Josephus\ na\ lista\ ligada\ com\ o\ atraso\ apropriado\ e\ manda\ a\ posi\u00E7\u00E3o\ de\ Josephus\ ao\ MainFrame.\r\n\r\n
+comment3.params=
+comment3.target=doublelinklistcirc.ListaDuplamenteLigadaCircular\ getCirculo()
+comment3.text=\r\n\ M\u00E9todo\ getCirculo\:\ Recolhe\ a\ lista\ ligada\ circular\ \r\n\r\n\ @return\ A\ lista\ ligada\ circular\r\n
+numComments=4

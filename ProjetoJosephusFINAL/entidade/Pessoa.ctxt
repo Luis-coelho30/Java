@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Pessoa
+comment0.text=\r\n\ A\ classe\ Pessoa\ atua\ como\ uma\ entidade\ que\ comp\u00F5e\ a\ lista\ duplamente\ ligada\ circular\ para\ o\ problema\ de\ Josephus\r\n\ \r\n\ \ RA\:\ 00333095\ NOME\ Matheus\ Heimrath\ Barbosa\ \r\n\ \ RA\:\ 00331675\ NOME\ Lu\u00EDs\ Augusto\ Coelho\ de\ Souza\r\n\ \ RA\:\ 00332850\ NOME\ Jo\u00E3o\ Guilherme\ Costa\ Couto\ \r\n\ \ @version\ 19/06/2024\r\n
+comment1.params=
+comment1.target=Pessoa()
+comment1.text=\r\n\ Pessoa\ Construtor\r\n\ Cria\ uma\ pessoa\ e\ a\ qualifica\ como\ viva\r\n
+comment2.params=id
+comment2.target=void\ setId(int)
+comment2.text=\r\n\ M\u00E9todo\ setId\:\r\n\ \r\n\ Configura\ o\ Id\ da\ pessoa\ em\ quest\u00E3o\r\n\r\n\ @param\ id\ Configura\ a\ posi\u00E7\u00E3o\ de\ uma\ Pessoa\ na\ lista\ ligada\ circular\r\n
+comment3.params=
+comment3.target=int\ getId()
+comment3.text=\r\n\ M\u00E9todo\ getId\:\r\n\ \r\n\ Recolhe\ o\ Id\ da\ pessoa\ em\ quest\u00E3o\ \r\n\ \ \r\n\ @return\ O\ id,\ que\ indica\ a\ posi\u00E7\u00E3o\ de\ uma\ Pessoa\ na\ lista\ ligada\ circular.\r\n
+comment4.params=
+comment4.target=boolean\ estaMorta()
+comment4.text=\r\n\ M\u00E9todo\ estaMorta\:\ \r\n\ \r\n\ Verifica\ se\ a\ pessoa\ em\ quest\u00E3o\ est\u00E1\ morta\r\n\r\n\ @return\ O\ valor\ invertido\ do\ estado\ da\ pessoa\ no\ momento.\ Se\ estiver\ viva,\ retorna\ false,\ sen\u00E3o\ retorna\ true.\r\n
+comment5.params=
+comment5.target=void\ matar()
+comment5.text=\r\n\ M\u00E9todo\ matar\:\r\n\ \r\n\ Respons\u00E1vel\ por\ modificar\ o\ estado\ da\ pessoa\ em\ quest\u00E3o\ para\ morta.\r\n
+numComments=6

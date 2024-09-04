@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Josephus
+comment0.text=\r\n\ A\ classe\ Josephus\ \u00E9\ respons\u00E1vel\ pela\ execu\u00E7\u00E3o\ da\ l\u00F3gica\ principal\ do\ Problema\ de\ Josephus,\ modificando\ os\ elementos\ da\ Lista\ e\ deixando\ apenas\ um\ vivo\ que\ \u00E9\ Josephus.\ \r\n\ \r\n\ \ RA\:\ 00333095\ NOME\ Matheus\ Heimrath\ Barbosa\ \r\n\ \ RA\:\ 00331675\ NOME\ Lu\u00EDs\ Augusto\ Coelho\ de\ Souza\r\n\ \ RA\:\ 00332850\ NOME\ Jo\u00E3o\ Guilherme\ Costa\ Couto\ \r\n\ \ @version\ 19/06/2024\r\n
+comment1.params=painel\ delay\ mainFrame
+comment1.target=Josephus(painelcirculo.JosephusCirculo,\ int,\ josephusGUI.JosephusMainFrame)
+comment1.text=\r\n\ Josephus\ Construtor\ prepara\ a\ classe\ Josephus\ para\ receber\ informa\u00E7\u00F5es\ sobre\ o\ painel\ circular,\ o\ mainframe\ (para\ atualiza\u00E7\u00F5es\ em\ tempo\ real\ no\ programa)\ e\ para\ receber\ o\ tempo\ de\ atraso\ necess\u00E1rio\ entre\ mortes\ \r\n\r\n\ @param\ painel\ O\ painel\ que\ cont\u00E9m\ o\ circulo\ que\ representa\ a\ lista\ circular\ \r\n\ @param\ delay\ O\ delay\ que\ dever\u00E1\ ser\ acionado\ a\ cada\ morte\ na\ lista\ \r\n\ @param\ mainFrame\ O\ frame\ principal\ que\ cuida\ do\ frame\ principal\ do\ programa\r\n
+comment2.params=lista\ k
+comment2.target=entidade.Pessoa\ sobrevivente(doublelinklistcirc.ListaDuplamenteLigadaCircular,\ int)
+comment2.text=\r\n\ M\u00E9todo\ sobrevivente\:\ Realiza\ as\ opera\u00E7\u00F5es\ na\ lista\ circular\ definindo\ elementos\ como\ mortos\ at\u00E9\ que\ o\ processo\ recursivo\ de\ elimina\u00E7\u00E3o\ de\ Josephus\ termine\r\n\r\n\ @param\ lista\ Recebe\ a\ lista\ onde\ dever\u00E1\ fazer\ as\ opera\u00E7\u00F5es\r\n\ @param\ k\ Recebe\ o\ passo\ com\ que\ deve\ operar\ as\ elimina\u00E7\u00F5es\r\n\ @return\ A\ posi\u00E7\u00E3o\ de\ Josephus,\ ou\ seja,\ do\ \u00FAltimo\ sobrevivente\r\n
+comment3.params=
+comment3.target=java.lang.String\ getMortos()
+comment3.text=\r\n\ M\u00E9todo\ getMortos\:\ Usa\ o\ conte\u00FAdo\ da\ lista\ de\ mortos\ e\ o\ transforma\ em\ String\r\n\r\n\ @return\ Uma\ String\ com\ uma\ lista\ de\ mortos\r\n
+numComments=4
